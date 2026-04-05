@@ -19,4 +19,4 @@ I design and build scalable enterprise systems using .NET, Azure, and distribute
 
 ### Connect
 - LinkedIn: https://linkedin.com/in/saradaranjanbehera
-- Portfolio: https://sarada.vercel.app
+- Portfolio: https://sarada-portfolio.vercel.app
